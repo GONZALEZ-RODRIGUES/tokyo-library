@@ -9,7 +9,7 @@ function Logo() {
         alt="logo" 
         className="img-logo">
       </img>
-      <p>本で未来を築く</p>
+      <p></p>
     </div>
   );
 }

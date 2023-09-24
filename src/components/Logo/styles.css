@@ -2,13 +2,13 @@
 
 .logo {
     display: flex;
-    font-size: 25px;
+    font-size: 22px;
     font-family: 'EB Garamond', serif;
     align-items: center;
     
   }
   .img-logo {
-    width: 150px;
+    width: 180px;
     height: 150px;
-    margin-right: 10px;
+    
   }
